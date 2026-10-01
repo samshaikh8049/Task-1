@@ -52,24 +52,21 @@ The task focuses on the following preprocessing techniques:
 
 ## 📂 Project Structure
 
+
 ```text
-task-1-data-cleaning/
+Task-1/
 │
-├── data/
-│   └── titanic.csv
-│
-├── plots/
-│   ├── missing_values_before.png
-│   ├── boxplot_Age.png
-│   ├── boxplot_SibSp.png
-│   ├── boxplot_Parch.png
-│   ├── boxplot_Fare.png
-│   └── fare_after_outlier_removal.png
-│
-├── task1_preprocessing.py
+├── README.MD
+├── Titanic-Dataset.csv
+├── task1.py
 ├── processed_titanic.csv
-└── README.md
-```
+│
+├── missing_values_before.png
+├── boxplot_Age.png
+├── boxplot_SibSp.png
+├── boxplot_Parch.png
+├── boxplot_Fare.png
+└── fare_after_outlier_removal.png
 
 ---
 
